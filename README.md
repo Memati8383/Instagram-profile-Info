@@ -22,9 +22,6 @@
 
 ## 🖼️ Ekran Görüntüsü
 
-Aşağıya proje çalışırken alınmış bir ekran görüntüsü ekleyin:  
-> 📌 `assets/` klasörüne ekran görüntüsü eklemeyi unutmayın!
-
 ![Instagram CLI Tool Screenshot](assets/screenshot.png)
 
 ---
@@ -67,7 +64,7 @@ Programı çalıştırdıktan sonra terminal üzerinden kullanıcı adı girin:
 ## 👨‍💻 Geliştirici
 
 - 📎 Geliştirici: [@Memati8383]()  
-- 📡 Github: [@https://github.com/Memati8383/](https://github.com/Memati8383/)
+- 📡 Github: [https://github.com/Memati8383/](https://github.com/Memati8383/)
 
 ---
 
