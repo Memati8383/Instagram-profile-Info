@@ -66,8 +66,8 @@ Programı çalıştırdıktan sonra terminal üzerinden kullanıcı adı girin:
 
 ## 👨‍💻 Geliştirici
 
-- 📎 Geliştirici: [@Zerooo1_1](https://t.me/Zerooo1_1)  
-- 📡 Kanal: [@Rolex_Checkerr](https://t.me/Rolex_Checkerr)
+- 📎 Geliştirici: [@Memati8383]()  
+- 📡 Github: [@https://github.com/Memati8383/](https://github.com/Memati8383/)
 
 ---
 
