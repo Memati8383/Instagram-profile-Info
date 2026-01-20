@@ -53,14 +53,6 @@ python SeleniumMain.py
 - `SeleniumMain.py`: Gelişmiş, arka planda çalışan Selenium tabanlı script.
 - `requirements.txt`: Proje için gerekli Python kütüphaneleri listesi.
 
-## 🤝 Katkıda Bulunma
-
-1. Bu depoyu Fork edin.
-2. Yeni bir dal (branch) oluşturun (`git checkout -b feature/yeniOzellik`).
-3. Değişikliklerinizi yapın ve Commit edin (`git commit -m 'Yeni özellik eklendi'`).
-4. Dalınıza Push yapın (`git push origin feature/yeniOzellik`).
-5. Bir Pull Request açın.
-
 ## ⚖️ Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır.
